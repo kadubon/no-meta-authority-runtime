@@ -8,7 +8,7 @@ __pycache__/
 dist/
 build/
 *.egg-info/
-tmp/
-scratch/
-seed-ledger/
-ledger/
+/tmp/
+/scratch/
+/seed-ledger/
+/ledger/
