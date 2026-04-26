@@ -1,0 +1,7 @@
+no-meta-authority-runtime
+Copyright 2026 no-meta-authority-runtime contributors
+
+This project is an open-source reference implementation inspired by:
+K. Takahashi (2026), "Executable Authority Migration to Declared No-Meta
+Agency: Boot Decisions, Seed Interpreters, and a Minimal Local Host",
+Zenodo, https://doi.org/10.5281/zenodo.19753529.

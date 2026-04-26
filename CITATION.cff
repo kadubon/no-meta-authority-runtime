@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, cite both the software and the referenced paper."
+title: "no-meta-authority-runtime"
+version: "0.1.0"
+license: "Apache-2.0"
+date-released: "2026-04-26"
+authors:
+  - name: "no-meta-authority-runtime contributors"
+preferred-citation:
+  type: article
+  title: "Executable Authority Migration to Declared No-Meta Agency: Boot Decisions, Seed Interpreters, and a Minimal Local Host"
+  authors:
+    - family-names: "Takahashi"
+      given-names: "K."
+      orcid: "https://orcid.org/0009-0004-4273-3365"
+  year: 2026
+  doi: "10.5281/zenodo.19753529"
+  repository-code: "https://doi.org/10.5281/zenodo.19753529"
